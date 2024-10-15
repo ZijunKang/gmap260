@@ -1,4 +1,4 @@
-<h1>Himalaya Quest</h1>
+<h1>Game Design: Himalaya Quest</h1>
 <br>
 <h3>
   Today, expeditions from across the globe gather to conquer the mighty Himalayas, the tallest peak on Earth. They will battle blizzards, illness, and dwindling supplies while navigating treacherous glaciers and cliffs. Only those with the courage and strategy to overcome these trials will reach the summit.
